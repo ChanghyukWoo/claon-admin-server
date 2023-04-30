@@ -14,5 +14,4 @@ deploy_*.sh
 *.ini
 
 !pytest.ini
-!test_config.ini
 test.db
